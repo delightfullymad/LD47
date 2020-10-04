@@ -1,0 +1,11 @@
+todo:
+
+-score↑
+-SFX↑
+-combo?↑
+-custom music↑
+-prettification
+-Menu↑
+-Controller
+-Better obstacles
+-Fail conditions/health↑
